@@ -141,12 +141,12 @@ h1 {
   text-decoration: underline;
 }
 
-/*.description .moz-link {
+.description .moz-link {
   position: relative;
   padding-left: 24px;
 }
 
-.description .moz-link:before {
+/*.description .moz-link:before {
   content: '';
   display: block;
   position: absolute;
