@@ -26,7 +26,7 @@ body {
   margin: 20px auto;
 }
 
-h1 {
+#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -95,7 +95,7 @@ body {
 h1 {
   text-align: center;
   font-size: 2.5rem;
-  color: #fff;
+  color: #F77E19;
 }
 
 .elements {
