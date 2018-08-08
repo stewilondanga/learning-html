@@ -162,11 +162,11 @@ h1 {
   background-color: #d48489;
 }
 
-/*.element.group-base:hover {
+.element.group-base:hover {
   background-color: #e1aaad;
 }
 
-.description.group-base {
+/*.description.group-base {
   background-color: rgba(225, 170, 173, 0.5);
 }
 
