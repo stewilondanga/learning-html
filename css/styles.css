@@ -88,7 +88,7 @@ h1 {
   .description:target {
     display: block;
   }
-  /*.key {
+  .key {
     display: block;
     padding: 0;
     width: 60%;
@@ -98,7 +98,7 @@ h1 {
     line-height: 1.8;
     font-weight: normal;
   }
-  .key li {
+  /*.key li {
     display: inline-block;
     margin: 0 .2rem;
     position: relative;
