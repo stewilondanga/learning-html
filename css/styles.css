@@ -82,10 +82,10 @@ h1 {
     margin: 1px;
     text-decoration: none;
   }
-  /*.description {
+  .description {
     display: none;
   }
-  .description:target {
+  /*.description:target {
     display: block;
   }
   .key {
