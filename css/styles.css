@@ -117,13 +117,13 @@ h1 {
   }
 }
 
-/*.description {
+.description {
   padding: 1em;
   margin: 2em 0;
   text-overflow: ellipsis;
 }
 
-.description h2 {
+/*.description h2 {
   margin: 0;
 }
 
