@@ -127,12 +127,12 @@ h1 {
   margin: 0;
 }
 
-/*.description a {
+.description a {
   color: #1d2441;
   text-decoration: none;
 }
 
-.description a:visited {
+/*.description a:visited {
   color: #3c4c88;
 }
 
