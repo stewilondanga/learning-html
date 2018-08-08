@@ -132,11 +132,11 @@ h1 {
   text-decoration: none;
 }
 
-/*.description a:visited {
+.description a:visited {
   color: #3c4c88;
 }
 
-.description a:hover, .description a:focus {
+/*.description a:hover, .description a:focus {
   color: #3c4c88;
   text-decoration: underline;
 }
