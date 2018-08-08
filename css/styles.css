@@ -67,10 +67,10 @@ h1 {
     height: 6vmin;
     justify-content: space-around;
   }
-  /*  .f-block .row {
+  .f-block .row {
     justify-content: flex-end;
   }
-  .element {
+  /*  .element {
     display: flex;
     font-weight: bold;
     align-items: center;
