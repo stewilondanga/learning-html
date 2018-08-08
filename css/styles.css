@@ -56,11 +56,11 @@ h1 {
   display: none;
 }
 
-/*.key {
+.key {
   display: none;
 }
 
-@media screen and (min-width: 600px) {
+/*@media screen and (min-width: 600px) {
   .row {
     display: flex;
     text-align: center;
