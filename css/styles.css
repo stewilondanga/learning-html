@@ -146,7 +146,7 @@ h1 {
   padding-left: 24px;
 }
 
-/*.description .moz-link:before {
+.description .moz-link:before {
   content: '';
   display: block;
   position: absolute;
@@ -158,7 +158,7 @@ h1 {
   height: 16px;
 }
 
-.element.group-base {
+/*.element.group-base {
   background-color: #d48489;
 }
 
