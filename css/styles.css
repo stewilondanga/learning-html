@@ -136,12 +136,12 @@ h1 {
   color: #3c4c88;
 }
 
-/*.description a:hover, .description a:focus {
+.description a:hover, .description a:focus {
   color: #3c4c88;
   text-decoration: underline;
 }
 
-.description .moz-link {
+/*.description .moz-link {
   position: relative;
   padding-left: 24px;
 }
