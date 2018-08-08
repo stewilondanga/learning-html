@@ -158,11 +158,11 @@ h1 {
   height: 16px;
 }
 
-/*.element.group-base {
+.element.group-base {
   background-color: #d48489;
 }
 
-.element.group-base:hover {
+/*.element.group-base:hover {
   background-color: #e1aaad;
 }
 
