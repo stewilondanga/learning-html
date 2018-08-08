@@ -98,14 +98,14 @@ h1 {
     line-height: 1.8;
     font-weight: normal;
   }
-  /*.key li {
+  .key li {
     display: inline-block;
     margin: 0 .2rem;
     position: relative;
     padding-left: 20px;
     cursor: pointer;
   }
-  .key li:before {
+  /*.key li:before {
     content: '';
     display: block;
     position: absolute;
