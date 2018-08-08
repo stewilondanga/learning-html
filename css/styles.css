@@ -1,6 +1,18 @@
+html {
+  background: #787878;
+  background: radial-gradient(ellipse at center, #454545 0%, #787878 100%);
+  background-size: cover;
+  height: 100%;
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 body {
   text-align: center;
   font-family: courier;
+  width: 90%;
+  width: 90vw;
+  margin: 1vh auto;
+  color: black;
 }
 
 .my_social {
@@ -75,20 +87,6 @@ body {
 }
 
 /*
-html {
-  background: #787878;
-  background: radial-gradient(ellipse at center, #454545 0%, #787878 100%);
-  background-size: cover;
-  height: 100%;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-body {
-  width: 90%;
-  width: 90vw;
-  margin: 1vh auto;
-  color: black;
-}
 
 h1 {
   text-align: center;
