@@ -40,13 +40,13 @@ h1 {
   font-size: 10px;
 }
 
-/*@media screen and (min-width: 600px) {
+@media screen and (min-width: 600px) {
   .elements {
     font-size: calc(10px + 8 * ((100vw - 600px) / 1320));
   }
 }
 
-@media screen and (min-width: 1920px) {
+/*@media screen and (min-width: 1920px) {
   .elements {
     font-size: 18px;
   }
