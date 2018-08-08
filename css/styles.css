@@ -85,10 +85,10 @@ h1 {
   .description {
     display: none;
   }
-  /*.description:target {
+  .description:target {
     display: block;
   }
-  .key {
+  /*.key {
     display: block;
     padding: 0;
     width: 60%;
