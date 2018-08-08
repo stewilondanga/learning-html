@@ -123,11 +123,11 @@ h1 {
   text-overflow: ellipsis;
 }
 
-/*.description h2 {
+.description h2 {
   margin: 0;
 }
 
-.description a {
+/*.description a {
   color: #1d2441;
   text-decoration: none;
 }
