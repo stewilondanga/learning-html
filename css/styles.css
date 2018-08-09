@@ -382,11 +382,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-edits {
+.element.group-edits {
   background-color: #89d484;
 }
 
-.element.group-edits:hover {
+/*.element.group-edits:hover {
   background-color: #ade1aa;
 }
 
