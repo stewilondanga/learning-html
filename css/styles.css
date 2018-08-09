@@ -346,11 +346,11 @@ h1 {
   background-color: #b1d484;
 }
 
-/*.hover-group-embedded .element {
+.hover-group-embedded .element {
   opacity: .5;
 }
 
-.hover-group-embedded .element.group-embedded {
+/*.hover-group-embedded .element.group-embedded {
   opacity: 1;
 }
 
