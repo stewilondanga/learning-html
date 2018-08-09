@@ -386,11 +386,11 @@ h1 {
   background-color: #89d484;
 }
 
-/*.element.group-edits:hover {
+.element.group-edits:hover {
   background-color: #ade1aa;
 }
 
-.description.group-edits {
+/*.description.group-edits {
   background-color: rgba(173, 225, 170, 0.5);
 }
 
