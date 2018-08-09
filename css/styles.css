@@ -314,11 +314,11 @@ h1 {
   background-color: rgba(197, 212, 132, 0.8);
 }
 
-/*.key li.group-media:before {
+.key li.group-media:before {
   background-color: #c5d484;
 }
 
-.hover-group-media .element {
+/*.hover-group-media .element {
   opacity: .5;
 }
 
