@@ -194,11 +194,11 @@ h1 {
   background-color: #e1b4aa;
 }
 
-/*.description.group-metadata {
+.description.group-metadata {
   background-color: rgba(225, 180, 170, 0.5);
 }
 
-.description.group-metadata:hover {
+/*.description.group-metadata:hover {
   background-color: rgba(212, 147, 132, 0.8);
 }
 
