@@ -422,11 +422,11 @@ h1 {
   background-color: rgba(170, 225, 180, 0.5);
 }
 
-/*.description.group-table:hover {
+.description.group-table:hover {
   background-color: rgba(132, 212, 147, 0.8);
 }
 
-.key li.group-table:before {
+/*.key li.group-table:before {
   background-color: #84d493;
 }
 
