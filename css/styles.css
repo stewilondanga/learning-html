@@ -166,11 +166,11 @@ h1 {
   background-color: #e1aaad;
 }
 
-/*.description.group-base {
+.description.group-base {
   background-color: rgba(225, 170, 173, 0.5);
 }
 
-.description.group-base:hover {
+/*.description.group-base:hover {
   background-color: rgba(212, 132, 137, 0.8);
 }
 
