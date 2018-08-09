@@ -238,11 +238,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-sectioning .element.group-sectioning {
+.hover-group-sectioning .element.group-sectioning {
   opacity: 1;
 }
 
-.element.group-text-content {
+/*.element.group-text-content {
   background-color: #d4bb84;
 }
 
