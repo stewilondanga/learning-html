@@ -474,11 +474,11 @@ h1 {
   background-color: #aae1d0;
 }
 
-/*.description.group-interactive {
+.description.group-interactive {
   background-color: rgba(170, 225, 208, 0.5);
 }
 
-.description.group-interactive:hover {
+/*.description.group-interactive:hover {
   background-color: rgba(132, 212, 187, 0.8);
 }
 
