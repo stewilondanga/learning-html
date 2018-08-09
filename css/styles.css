@@ -302,11 +302,11 @@ h1 {
   background-color: #c5d484;
 }
 
-/*.element.group-media:hover {
+.element.group-media:hover {
   background-color: #d7e1aa;
 }
 
-.description.group-media {
+/*.description.group-media {
   background-color: rgba(215, 225, 170, 0.5);
 }
 
