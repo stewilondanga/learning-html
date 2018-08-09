@@ -482,11 +482,11 @@ h1 {
   background-color: rgba(132, 212, 187, 0.8);
 }
 
-/*.key li.group-interactive:before {
+.key li.group-interactive:before {
   background-color: #84d4bb;
 }
 
-.hover-group-interactive .element {
+/*.hover-group-interactive .element {
   opacity: .5;
 }
 
