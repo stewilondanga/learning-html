@@ -366,11 +366,11 @@ h1 {
   background-color: rgba(187, 225, 170, 0.5);
 }
 
-/*.description.group-script:hover {
+.description.group-script:hover {
   background-color: rgba(157, 212, 132, 0.8);
 }
 
-.key li.group-script:before {
+/*.key li.group-script:before {
   background-color: #9dd484;
 }
 
