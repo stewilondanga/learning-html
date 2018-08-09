@@ -442,11 +442,11 @@ h1 {
   background-color: #84d4a7;
 }
 
-/*.element.group-forms:hover {
+.element.group-forms:hover {
   background-color: #aae1c2;
 }
 
-.description.group-forms {
+/*.description.group-forms {
   background-color: rgba(170, 225, 194, 0.5);
 }
 
