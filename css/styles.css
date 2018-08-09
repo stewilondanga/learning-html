@@ -494,11 +494,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-web-components {
+.element.group-web-components {
   background-color: #84d4cf;
 }
 
-.element.group-web-components:hover {
+/*.element.group-web-components:hover {
   background-color: #aae1de;
 }
 
