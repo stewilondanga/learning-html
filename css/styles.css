@@ -338,11 +338,11 @@ h1 {
   background-color: rgba(201, 225, 170, 0.5);
 }
 
-/*.description.group-embedded:hover {
+.description.group-embedded:hover {
   background-color: rgba(177, 212, 132, 0.8);
 }
 
-.key li.group-embedded:before {
+/*.key li.group-embedded:before {
   background-color: #b1d484;
 }
 
