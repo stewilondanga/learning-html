@@ -218,11 +218,11 @@ h1 {
   background-color: #d4a784;
 }
 
-/*.element.group-sectioning:hover {
+.element.group-sectioning:hover {
   background-color: #e1c2aa;
 }
 
-.description.group-sectioning {
+/*.description.group-sectioning {
   background-color: rgba(225, 194, 170, 0.5);
 }
 
