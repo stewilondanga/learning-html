@@ -322,11 +322,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-media .element.group-media {
+.hover-group-media .element.group-media {
   opacity: 1;
 }
 
-.element.group-embedded {
+/*.element.group-embedded {
   background-color: #b1d484;
 }
 
