@@ -426,11 +426,11 @@ h1 {
   background-color: rgba(132, 212, 147, 0.8);
 }
 
-/*.key li.group-table:before {
+.key li.group-table:before {
   background-color: #84d493;
 }
 
-.hover-group-table .element {
+/*.hover-group-table .element {
   opacity: .5;
 }
 
