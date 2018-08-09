@@ -354,11 +354,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-script {
+.element.group-script {
   background-color: #9dd484;
 }
 
-.element.group-script:hover {
+/*.element.group-script:hover {
   background-color: #bbe1aa;
 }
 
