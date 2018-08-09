@@ -186,11 +186,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-metadata {
+.element.group-metadata {
   background-color: #d49384;
 }
 
-.element.group-metadata:hover {
+/*.element.group-metadata:hover {
   background-color: #e1b4aa;
 }
 
