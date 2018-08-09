@@ -398,11 +398,11 @@ h1 {
   background-color: rgba(137, 212, 132, 0.8);
 }
 
-/*.key li.group-edits:before {
+.key li.group-edits:before {
   background-color: #89d484;
 }
 
-.hover-group-edits .element {
+/*.hover-group-edits .element {
   opacity: .5;
 }
 
