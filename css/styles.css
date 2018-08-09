@@ -410,11 +410,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-table {
+.element.group-table {
   background-color: #84d493;
 }
 
-.element.group-table:hover {
+/*.element.group-table:hover {
   background-color: #aae1b4;
 }
 
