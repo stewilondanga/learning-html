@@ -318,11 +318,11 @@ h1 {
   background-color: #c5d484;
 }
 
-/*.hover-group-media .element {
+.hover-group-media .element {
   opacity: .5;
 }
 
-.hover-group-media .element.group-media {
+/*.hover-group-media .element.group-media {
   opacity: 1;
 }
 
