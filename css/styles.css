@@ -362,11 +362,11 @@ h1 {
   background-color: #bbe1aa;
 }
 
-/*.description.group-script {
+.description.group-script {
   background-color: rgba(187, 225, 170, 0.5);
 }
 
-.description.group-script:hover {
+/*.description.group-script:hover {
   background-color: rgba(157, 212, 132, 0.8);
 }
 
