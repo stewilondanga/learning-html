@@ -490,11 +490,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-interactive .element.group-interactive {
+.hover-group-interactive .element.group-interactive {
   opacity: 1;
 }
 
-.element.group-web-components {
+/*.element.group-web-components {
   background-color: #84d4cf;
 }
 
