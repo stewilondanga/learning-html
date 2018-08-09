@@ -454,11 +454,11 @@ h1 {
   background-color: rgba(132, 212, 167, 0.8);
 }
 
-/*.key li.group-forms:before {
+.key li.group-forms:before {
   background-color: #84d4a7;
 }
 
-.hover-group-forms .element {
+/*.hover-group-forms .element {
   opacity: .5;
 }
 
