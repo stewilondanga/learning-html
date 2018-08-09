@@ -466,11 +466,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-interactive {
+.element.group-interactive {
   background-color: #84d4bb;
 }
 
-.element.group-interactive:hover {
+/*.element.group-interactive:hover {
   background-color: #aae1d0;
 }
 
