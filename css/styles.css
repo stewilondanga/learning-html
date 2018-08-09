@@ -290,11 +290,11 @@ h1 {
   background-color: #d4cf84;
 }
 
-/*.hover-group-text-semantics .element {
+.hover-group-text-semantics .element {
   opacity: .5;
 }
 
-.hover-group-text-semantics .element.group-text-semantics {
+/*.hover-group-text-semantics .element.group-text-semantics {
   opacity: 1;
 }
 
