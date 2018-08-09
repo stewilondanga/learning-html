@@ -258,11 +258,11 @@ h1 {
   background-color: rgba(212, 187, 132, 0.8);
 }
 
-/*.key li.group-text-content:before {
+.key li.group-text-content:before {
   background-color: #d4bb84;
 }
 
-.hover-group-text-content .element {
+/*.hover-group-text-content .element {
   opacity: .5;
 }
 
