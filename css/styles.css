@@ -230,11 +230,11 @@ h1 {
   background-color: rgba(212, 167, 132, 0.8);
 }
 
-/*.key li.group-sectioning:before {
+.key li.group-sectioning:before {
   background-color: #d4a784;
 }
 
-.hover-group-sectioning .element {
+/*.hover-group-sectioning .element {
   opacity: .5;
 }
 
