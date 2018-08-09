@@ -206,11 +206,11 @@ h1 {
   background-color: #d49384;
 }
 
-/*.hover-group-metadata .element {
+.hover-group-metadata .element {
   opacity: .5;
 }
 
-.hover-group-metadata .element.group-metadata {
+/*.hover-group-metadata .element.group-metadata {
   opacity: 1;
 }
 
