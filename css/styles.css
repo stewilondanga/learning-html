@@ -378,11 +378,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-script .element.group-script {
+.hover-group-script .element.group-script {
   opacity: 1;
 }
 
-.element.group-edits {
+/*.element.group-edits {
   background-color: #89d484;
 }
 
