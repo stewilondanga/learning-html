@@ -450,11 +450,11 @@ h1 {
   background-color: rgba(170, 225, 194, 0.5);
 }
 
-/*.description.group-forms:hover {
+.description.group-forms:hover {
   background-color: rgba(132, 212, 167, 0.8);
 }
 
-.key li.group-forms:before {
+/*.key li.group-forms:before {
   background-color: #84d4a7;
 }
 
