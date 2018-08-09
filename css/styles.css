@@ -182,11 +182,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-base .element.group-base {
+.hover-group-base .element.group-base {
   opacity: 1;
 }
 
-.element.group-metadata {
+/*.element.group-metadata {
   background-color: #d49384;
 }
 
