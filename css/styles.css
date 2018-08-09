@@ -498,11 +498,11 @@ h1 {
   background-color: #84d4cf;
 }
 
-/*.element.group-web-components:hover {
+.element.group-web-components:hover {
   background-color: #aae1de;
 }
 
-.description.group-web-components {
+/*.description.group-web-components {
   background-color: rgba(170, 225, 222, 0.5);
 }
 
