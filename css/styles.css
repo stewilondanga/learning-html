@@ -202,11 +202,11 @@ h1 {
   background-color: rgba(212, 147, 132, 0.8);
 }
 
-/*.key li.group-metadata:before {
+.key li.group-metadata:before {
   background-color: #d49384;
 }
 
-.hover-group-metadata .element {
+/*.hover-group-metadata .element {
   opacity: .5;
 }
 
