@@ -266,11 +266,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-text-content .element.group-text-content {
+.hover-group-text-content .element.group-text-content {
   opacity: 1;
 }
 
-.element.group-text-semantics {
+/*.element.group-text-semantics {
   background-color: #d4cf84;
 }
 
