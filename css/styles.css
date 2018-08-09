@@ -434,11 +434,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-table .element.group-table {
+.hover-group-table .element.group-table {
   opacity: 1;
 }
 
-.element.group-forms {
+/*.element.group-forms {
   background-color: #84d4a7;
 }
 
