@@ -458,11 +458,11 @@ h1 {
   background-color: #84d4a7;
 }
 
-/*.hover-group-forms .element {
+.hover-group-forms .element {
   opacity: .5;
 }
 
-.hover-group-forms .element.group-forms {
+/*.hover-group-forms .element.group-forms {
   opacity: 1;
 }
 
