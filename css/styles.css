@@ -330,11 +330,11 @@ h1 {
   background-color: #b1d484;
 }
 
-/*.element.group-embedded:hover {
+.element.group-embedded:hover {
   background-color: #c9e1aa;
 }
 
-.description.group-embedded {
+/*.description.group-embedded {
   background-color: rgba(201, 225, 170, 0.5);
 }
 
