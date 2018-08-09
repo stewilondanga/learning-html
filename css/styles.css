@@ -274,11 +274,11 @@ h1 {
   background-color: #d4cf84;
 }
 
-/*.element.group-text-semantics:hover {
+.element.group-text-semantics:hover {
   background-color: #e1deaa;
 }
 
-.description.group-text-semantics {
+/*.description.group-text-semantics {
   background-color: rgba(225, 222, 170, 0.5);
 }
 
