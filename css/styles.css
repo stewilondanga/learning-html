@@ -298,11 +298,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-media {
+.element.group-media {
   background-color: #c5d484;
 }
 
-.element.group-media:hover {
+/*.element.group-media:hover {
   background-color: #d7e1aa;
 }
 
