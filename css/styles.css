@@ -506,11 +506,11 @@ h1 {
   background-color: rgba(170, 225, 222, 0.5);
 }
 
-/*.description.group-web-components:hover {
+.description.group-web-components:hover {
   background-color: rgba(132, 212, 207, 0.8);
 }
 
-.key li.group-web-components:before {
+/*.key li.group-web-components:before {
   background-color: #84d4cf;
 }
 
