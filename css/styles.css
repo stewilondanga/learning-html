@@ -470,11 +470,11 @@ h1 {
   background-color: #84d4bb;
 }
 
-/*.element.group-interactive:hover {
+.element.group-interactive:hover {
   background-color: #aae1d0;
 }
 
-.description.group-interactive {
+/*.description.group-interactive {
   background-color: rgba(170, 225, 208, 0.5);
 }
 
