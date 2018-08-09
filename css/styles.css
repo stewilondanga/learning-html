@@ -174,11 +174,11 @@ h1 {
   background-color: rgba(212, 132, 137, 0.8);
 }
 
-/*.key li.group-base:before {
+.key li.group-base:before {
   background-color: #d48489;
 }
 
-.hover-group-base .element {
+/*.hover-group-base .element {
   opacity: .5;
 }
 
