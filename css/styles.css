@@ -170,11 +170,11 @@ h1 {
   background-color: rgba(225, 170, 173, 0.5);
 }
 
-/*.description.group-base:hover {
+.description.group-base:hover {
   background-color: rgba(212, 132, 137, 0.8);
 }
 
-.key li.group-base:before {
+/*.key li.group-base:before {
   background-color: #d48489;
 }
 
