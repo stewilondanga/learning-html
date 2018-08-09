@@ -350,11 +350,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-embedded .element.group-embedded {
+.hover-group-embedded .element.group-embedded {
   opacity: 1;
 }
 
-.element.group-script {
+/*.element.group-script {
   background-color: #9dd484;
 }
 
