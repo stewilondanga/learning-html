@@ -278,11 +278,11 @@ h1 {
   background-color: #e1deaa;
 }
 
-/*.description.group-text-semantics {
+.description.group-text-semantics {
   background-color: rgba(225, 222, 170, 0.5);
 }
 
-.description.group-text-semantics:hover {
+/*.description.group-text-semantics:hover {
   background-color: rgba(212, 207, 132, 0.8);
 }
 
