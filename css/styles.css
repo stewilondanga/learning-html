@@ -414,11 +414,11 @@ h1 {
   background-color: #84d493;
 }
 
-/*.element.group-table:hover {
+.element.group-table:hover {
   background-color: #aae1b4;
 }
 
-.description.group-table {
+/*.description.group-table {
   background-color: rgba(170, 225, 180, 0.5);
 }
 
