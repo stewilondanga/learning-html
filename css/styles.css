@@ -214,11 +214,11 @@ h1 {
   opacity: 1;
 }
 
-/*.element.group-sectioning {
+.element.group-sectioning {
   background-color: #d4a784;
 }
 
-.element.group-sectioning:hover {
+/*.element.group-sectioning:hover {
   background-color: #e1c2aa;
 }
 
