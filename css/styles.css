@@ -286,11 +286,11 @@ h1 {
   background-color: rgba(212, 207, 132, 0.8);
 }
 
-/*.key li.group-text-semantics:before {
+.key li.group-text-semantics:before {
   background-color: #d4cf84;
 }
 
-.hover-group-text-semantics .element {
+/*.hover-group-text-semantics .element {
   opacity: .5;
 }
 
