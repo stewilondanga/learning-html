@@ -198,11 +198,11 @@ h1 {
   background-color: rgba(225, 180, 170, 0.5);
 }
 
-/*.description.group-metadata:hover {
+.description.group-metadata:hover {
   background-color: rgba(212, 147, 132, 0.8);
 }
 
-.key li.group-metadata:before {
+/*.key li.group-metadata:before {
   background-color: #d49384;
 }
 
