@@ -358,11 +358,11 @@ h1 {
   background-color: #9dd484;
 }
 
-/*.element.group-script:hover {
+.element.group-script:hover {
   background-color: #bbe1aa;
 }
 
-.description.group-script {
+/*.description.group-script {
   background-color: rgba(187, 225, 170, 0.5);
 }
 
