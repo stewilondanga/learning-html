@@ -462,11 +462,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-forms .element.group-forms {
+.hover-group-forms .element.group-forms {
   opacity: 1;
 }
 
-.element.group-interactive {
+/*.element.group-interactive {
   background-color: #84d4bb;
 }
 
