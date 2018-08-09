@@ -210,11 +210,11 @@ h1 {
   opacity: .5;
 }
 
-/*.hover-group-metadata .element.group-metadata {
+.hover-group-metadata .element.group-metadata {
   opacity: 1;
 }
 
-.element.group-sectioning {
+/*.element.group-sectioning {
   background-color: #d4a784;
 }
 
