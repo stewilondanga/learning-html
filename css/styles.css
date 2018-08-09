@@ -402,11 +402,11 @@ h1 {
   background-color: #89d484;
 }
 
-/*.hover-group-edits .element {
+.hover-group-edits .element {
   opacity: .5;
 }
 
-.hover-group-edits .element.group-edits {
+/*.hover-group-edits .element.group-edits {
   opacity: 1;
 }
 
