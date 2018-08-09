@@ -178,11 +178,11 @@ h1 {
   background-color: #d48489;
 }
 
-/*.hover-group-base .element {
+.hover-group-base .element {
   opacity: .5;
 }
 
-.hover-group-base .element.group-base {
+/*.hover-group-base .element.group-base {
   opacity: 1;
 }
 
